@@ -2,10 +2,10 @@
 
 Auto Complete jQuery is a simple code written in jQuery, Which gives a suggestion dropdown list as the user types in the textbox.
 
-Installation
+##Installation
 
-Creating the MySQL Database
+###Creating the MySQL Database
 
-Create database "autocomplete" from phpmyadmin interface
-import autocomplete.sql
-open the index file on any browser and type an alphabet in the search box :)
+1. Create database "autocomplete" from phpmyadmin interface
+2. import autocomplete.sql
+3. open the index file on any browser and type an alphabet in the search box :)
