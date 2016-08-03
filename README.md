@@ -11,4 +11,4 @@ Auto Complete jQuery is a simple code written in jQuery, Which gives a suggestio
 3. open the index file on any browser and type an alphabet in the search box :)
 4. 
 
-Any Feedback is appreciated 
+***Any Feedback is appreciated***
